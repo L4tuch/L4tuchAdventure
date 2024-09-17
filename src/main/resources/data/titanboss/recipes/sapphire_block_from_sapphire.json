@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "titanboss:sapphire"
+    }
+  },
+  "result": {
+    "item": "titanboss:sapphire_block"
+  }
+}
